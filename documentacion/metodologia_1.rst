@@ -4,10 +4,11 @@
 
 Para esta motodología se tienen los siguientes pasos
 
-**Preparar la lectura**
+**Preparar la lectura de los datos**
 
-Se procesa el archivo y se le extraen los nombres de los canales, su cantidad, 
-se enumeran las muestras y se inserta la enumeración en los datos. 
+Se procesa el archivo de la base de datos. Se extraen la cantidad y los 
+nombres de los canales, se enumeran las muestras y se inserta la enumeración en
+los datos en caso de ser necesario. 
 Luego exportamos los datos preparados en un archivo .csv
 
 **Obtener los datos de la EEG**
